@@ -19,7 +19,7 @@ SectionPagesMenu = "main"
   name = "Posts"
   weight = -120
   identifier = "post"
-  url = "/post/"
+  url = "/posts/"
 
 [[menu.main]]
   name = "Tags"
