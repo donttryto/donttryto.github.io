@@ -1,0 +1,39 @@
+baseurl = "https://donttryto.github.io"
+publishDir = "docs"
+title = "My site"
+copyright = "Copyright (c) 2017, all rights NOT reserved."
+canonifyurls = true
+languageCode = "en-US"
+paginate = 3
+theme = "hugo-dusk"
+
+googleAnalytics = ""
+disqusShortname = ""
+
+[author]
+  name = "DragoN"
+
+SectionPagesMenu = "main"
+
+[[menu.main]]
+  name = "Posts"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = -110
+  identifier = "tag"
+  url = "/tags/"
+
+[params.meta]
+  keywords = "blog, tech"
+  description = "Personal blog."
+
+[params]
+  github = "github id"
+  gitlab = "gitlab id"
+  twitter = "twitter id"
+  linkedin = "linkedin id"
+  email = "myemail"
