@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My site</title>
-    <link>http://localhost/</link>
+    <link>https://donttryto.github.io/</link>
     <description>Recent content on My site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, all rights NOT reserved.</copyright>
     <lastBuildDate>Mon, 04 Sep 2017 16:09:05 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://donttryto.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://localhost/posts/my-first-post/</link>
+      <link>https://donttryto.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 04 Sep 2017 16:09:05 +0800</pubDate>
       
-      <guid>http://localhost/posts/my-first-post/</guid>
+      <guid>https://donttryto.github.io/posts/my-first-post/</guid>
       <description>First Post this is a test for github.io hosting static pages by Hugo</description>
     </item>
     
