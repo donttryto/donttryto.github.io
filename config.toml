@@ -1,5 +1,5 @@
 baseurl = "https://donttryto.github.io"
-publishDir = "docs"
+#publishDir = "docs"
 title = "My site"
 copyright = "Copyright (c) 2017, all rights NOT reserved."
 canonifyurls = true
